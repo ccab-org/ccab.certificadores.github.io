@@ -4,7 +4,7 @@
 
 1. الوصول إلى واجهات برمجة تطبيقات الاستعلام في خيار Associate
 2. تسجيل الدخول على: associate/login
-3. تسجيل الدخول: https://api.dev.casaarabe.org.br/ellos/associate/api/Associate/login
+3. تسجيل الدخول: https://api.hom.ellos.org.br/ellos/associate/api/Associate/login
 4. انقر فوق <b> جربه </b>
 5. أدخل أي رؤوس تريدها و / أو قم بتغيير محتوى نص الطلب
 6. انقر فوق <b> تنفيذ </ b>
